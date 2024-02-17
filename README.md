@@ -1,15 +1,15 @@
-# MultiPDF Chat App
+# ContextualConnect-Pro
 
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
+
 
 ## Introduction
 ------------
-The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
+ContextualConnect Pro is a web-based application designed for advanced document searching and retrieval. This repository contains the source code for the application, which leverages various natural language processing and machine learning techniques to provide users with the ability to interactively search for information within upload.
 
 ## How It Works
 ------------
 
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
+![ContextualConnect-Pro Diagram](./docs/PDF-LangChain.jpg)
 
 The application follows these steps to provide responses to your questions:
 
@@ -25,7 +25,7 @@ The application follows these steps to provide responses to your questions:
 
 ## Dependencies and Installation
 ----------------------------
-To install the MultiPDF Chat App, please follow these steps:
+To install the ContextualConnect-Pro App, please follow these steps:
 
 1. Clone the repository to your local machine.
 
@@ -41,7 +41,7 @@ OPENAI_API_KEY=your_secrit_api_key
 
 ## Usage
 -----
-To use the MultiPDF Chat App, follow these steps:
+To use the ContextualConnect-Pro App, follow these steps:
 
 1. Ensure that you have installed the required dependencies and added the OpenAI API key to the `.env` file.
 
@@ -58,8 +58,8 @@ To use the MultiPDF Chat App, follow these steps:
 
 ## Contributing
 ------------
-This repository is intended for educational purposes and does not accept further contributions. It serves as supporting material for a YouTube tutorial that demonstrates how to build this project. Feel free to utilize and enhance the app based on your own requirements.
+This repository is intended for educational purposes and does not accept further contributions. Feel free to utilize and enhance the app based on your own requirements.
 
 ## License
 -------
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
+ContextualConnect-Pro App is released under the [MIT License](https://opensource.org/licenses/MIT).
