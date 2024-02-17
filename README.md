@@ -62,8 +62,8 @@ This repository is intended for educational purposes and does not accept further
 
 ## Colaborators
 ------------
-Rakesh Kanneeswaran Maravar
-Aagam Chhajer
+Rakesh Kanneeswaran Maravar.
+Aagam Chhajer.
 
 ## License
 -------
