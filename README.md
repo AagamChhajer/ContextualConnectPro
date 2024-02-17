@@ -60,6 +60,12 @@ To use the ContextualConnect-Pro App, follow these steps:
 ------------
 This repository is intended for educational purposes and does not accept further contributions. Feel free to utilize and enhance the app based on your own requirements.
 
+## Colaborators
+------------
+Rakesh Kanneeswaran Maravar
+
+Aagam Chhajer
+
 ## License
 -------
 ContextualConnect-Pro App is released under the [MIT License](https://opensource.org/licenses/MIT).
